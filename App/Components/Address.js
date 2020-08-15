@@ -1,4 +1,4 @@
-const bitcore = require('qtumcore-lib');
+const bitcore = require('cicocore-lib');
 
 class Address {
 
